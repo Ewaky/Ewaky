@@ -1,1 +1,1 @@
-# Ewaky Documentation Coming Soon
+Ewaky Documentation Coming Soon
